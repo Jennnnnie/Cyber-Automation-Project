@@ -1,0 +1,11 @@
+========================================
+HIGH-RISK VULNERABILITY REPORT
+   GENERATED: 2026-04-09 21:12:50
+========================================
+
+🚨 ACTION REQUIRED: PrintNightmare RCE found on 192.168.1.10
+🚨 ACTION REQUIRED: EternalBlue SMB Exploit found on 192.168.1.15
+🚨 ACTION REQUIRED: Log4Shell RCE found on 192.168.1.25
+========================================
+Total High-Risk Findings: 3
+========================================
