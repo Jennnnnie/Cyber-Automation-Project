@@ -1,0 +1,6 @@
+Plugin ID,CVE,CVSS,Severity,Description,Host
+12345,CVE-2021-34527,8.8,Critical,PrintNightmare RCE,192.168.1.10
+67890,CVE-2017-0144,8.1,High,EternalBlue SMB Exploit,192.168.1.15
+11223,,5.0,Medium,SSL Certificate Expiry,192.168.1.20
+44556,,3.0,Low,ICMP Timestamp Request,192.168.1.20
+99887,CVE-2021-44228,10.0,Critical,Log4Shell RCE,192.168.1.25
