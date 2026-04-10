@@ -24,6 +24,7 @@ Fixes what security analysts call "Information Overload." Instead of manually se
 Below is the terminal history showing the resolution of a few errors (`NameError`) and encoding conflicts (`UnicodeEncodeError`).
 
 ![Terminal Development Lifecycle](img/terminal_development_lifecycle.png)
+![Terminal Development Lifecycle](img/terminal_development_lifecycle_2.png)
 
 ## 🚀 How to Run
 1. Ensure Python 3.x is installed.
